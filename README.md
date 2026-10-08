@@ -23,8 +23,7 @@ src/
   instruction_memory.v 256-word ROM with the demo program
   data_memory.v        256-word RAM
   pc.v  pc_adder.v  pc_branch.v  sign_extend.v  mux2.v
-tb/
-  tb_mips_single.v     self-checking testbench
+
 ```
 
 ## Demo program
